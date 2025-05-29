@@ -1,6 +1,6 @@
 # scrapER2025
 
-forked from git@github.com:RickBahague/scraper2025.git
+forked from [git@github.com:RickBahague/scraper2025.git](https://github.com/ianalis/scraper2025)
 
 full data download - https://github.com/RickBahague/RickBahague-nle-data-2025/releases/tag/release01
 
